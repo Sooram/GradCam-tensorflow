@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Apr 12 13:15:24 2019
-
-@author: Sooram Kang
+Downloaded from: https://github.com/machrisaa/tensorflow-vgg
 
 """
 
