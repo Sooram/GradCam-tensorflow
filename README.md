@@ -9,5 +9,4 @@ Ramprasaath R. Selvaraju, Abhishek Das, Ramakrishna Vedantam, Michael Cogswell, 
 
 ## Results
 ![Preview](Black_Footed_Albatross_0001_796111.jpg)
-![Preview](test.png)
-<img src="https://github.com/Sooram/GradCam-tensorflow/blob/master/test.png" width="224">
+<img src="https://github.com/Sooram/GradCam-tensorflow/blob/master/test.png" width="400">
