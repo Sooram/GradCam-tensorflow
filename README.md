@@ -9,5 +9,5 @@ Ramprasaath R. Selvaraju, Abhishek Das, Ramakrishna Vedantam, Michael Cogswell, 
 
 ## Results
 ![Preview](Black_Footed_Albatross_0001_796111.jpg)
-![Preview](test.png)
+![Preview](test.png =224x224)
 
