@@ -1,8 +1,7 @@
 ## [Original Paper] Grad-CAM: Gradient-weighted Class Activation Mapping
 
-**[Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization][7]**  
+**[Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391)**  
 Ramprasaath R. Selvaraju, Abhishek Das, Ramakrishna Vedantam, Michael Cogswell, Devi Parikh, Dhruv Batra  
-[https://arxiv.org/abs/1610.02391][7]
 
 ![Overview](http://i.imgur.com/JaGbdZ5.png)
 
